@@ -1,0 +1,2 @@
+This file contains text, which is built up by letters, which are basically just pixels arranged in a specific form on your screen. 
+Have fun with the pixels!
